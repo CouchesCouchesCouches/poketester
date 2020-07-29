@@ -11,7 +11,7 @@ export default class Home extends Component {
       <div className="About container">
         <h1>About</h1>
         <p>
-          PLACE HOLDER
+          Take or upload a picture and this shitty pokedex might tell you which pokemon it is!
         </p>
       </div>
     );
